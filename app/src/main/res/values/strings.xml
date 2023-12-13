@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyKTApp</string>
+    <string name="title_activity_functionanlity1">Functionanlity1</string>
+    <string name="title_activity_functionality1">Functionality1</string>
+    <string name="title_activity_function1">Function1</string>
+    <string name="title_activity_time_calendar">TimeCalendar</string>
+</resources>
